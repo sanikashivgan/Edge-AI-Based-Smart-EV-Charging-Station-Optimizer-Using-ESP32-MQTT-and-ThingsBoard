@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+**/.pio/
+**/firmware.elf
+**/firmware.map
+**/firmware.bin
+**/firmware.hex
+**/firmware.elf
+**/firmware.map
+
+*.o
